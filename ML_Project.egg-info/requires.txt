@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+requests
+matplotlib
+jupyter
+scikit-learn
+dataclasses
+setuptools

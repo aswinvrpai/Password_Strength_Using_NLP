@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ML_Project
+Version: 0.0.1
+Author: aswinvrpai
+Author-email: aswin.199.vr@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: requests
+Requires-Dist: matplotlib
+Requires-Dist: jupyter
+Requires-Dist: scikit-learn
+Requires-Dist: dataclasses
+Requires-Dist: setuptools
